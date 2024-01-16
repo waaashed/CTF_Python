@@ -1,3 +1,5 @@
+![CTF Banner](https://media.licdn.com/dms/image/D5612AQH-Ap4I7tvnOg/article-cover_image-shrink_600_2000/0/1683380521228?e=2147483647&v=beta&t=xONaIruqkvpmKS20cdb9bxSdCSR-VVrT7MSdyJlnitE)
+
 # CTF Challenge - Trouver le Code d'Accès
 
 Bienvenue dans le CTF (Capture The Flag) "Trouver le Code d'Accès". Dans ce défi, vous devrez résoudre une énigme pour trouver le code d'accès qui vous conduira au flag.
