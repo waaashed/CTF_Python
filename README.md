@@ -26,11 +26,11 @@ Suivez ces étapes pour participer au CTF :
 
 ## Remarque
 
-- N'hésitez pas à explorer le code source (`app.py`) pour comprendre comment l'application fonctionne. Soyez attentif aux indices et aux éventuels fichiers ou fonctions qui pourraient vous guider vers le code d'accès.
+- N'hésitez pas à explorer le code source (`app.py`) pour comprendre comment l'application fonctionne et trouver la solution en cas de blocage. Soyez attentif aux indices et aux éventuels fichiers ou fonctions qui pourraient vous guider vers le code d'accès.
 
 - Assurez-vous d'avoir Python installé sur votre machine.
 
-- En cas de problème ou de question, n'hésitez pas à contacter les organisateurs du CTF.
+- En cas de problème ou de question, n'hésitez pas à me contacter.
 
 ---
 
