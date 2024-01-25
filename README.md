@@ -22,7 +22,7 @@ Suivez ces étapes pour participer au CTF :
 
    Si tout se passe bien, l'application devrait être accessible à l'adresse [http://127.0.0.1:5000/](http://127.0.0.1:5000/). Si la page ne s'ouvre pas automatiquement, ouvrez votre navigateur et accédez à cette URL.
 
-3. **Résoudre l'énigme :** Une fois sur la page, vous verrez une énigme. La mission est de trouver le code d'accès. Il se cache probablement dans un répertoire, peut-être lié à un appel à `get_access_code`. Il pourrait être lié à votre promotion actuelle, peut-être nécessitant une clé d'authentification.
+3. **Résoudre l'énigme :** Une fois sur la page, vous verrez une énigme. La mission est de trouver le code d'accès. Il se cache probablement dans un répertoire, peut-être lié à un appel à `get_access_code`. Il pourrait être lié au nom d'une vitamine hydrosoluble qui correspond à deux molécules : la niacine (acide nicotinique) et son amide, le nicotinamide, peut-être nécessitant une clé d'authentification.
 
 4. **Trouver le Flag :** Le code d'accès que vous trouverez devrait vous mener au flag. Bonne chance !
 
